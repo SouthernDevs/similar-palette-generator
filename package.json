@@ -1,6 +1,6 @@
 {
   "name": "@southerndevs/similar-palette-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "commonjs",
   "description": "This package lets you generate a similar palette with random colors",
   "main": "index.js",
