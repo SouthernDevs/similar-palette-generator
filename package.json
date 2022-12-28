@@ -7,6 +7,9 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Agustin Garcia",
-  "license": "ISC"
+  "author": "agarcia",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
