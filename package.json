@@ -11,5 +11,13 @@
   "license": "MIT",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SouthernDevs/similar-palette-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SouthernDevs/similar-palette-generator/issues"
+  },
+  "homepage": "https://github.com/SouthernDevs/similar-palette-generator#readme"
 }
